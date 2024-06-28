@@ -1,6 +1,6 @@
 # Malicious Extension
 
-This VSCode extension is created for educational purposes to demonstrate how a malicious extension can establish a reverse shell connection.
+This VSCode extension is created for educational purposes to demonstrate how a malicious extension can be used for initial access and persistence. There is no obfuscation or in-memory execution has been added for now but will do it later.
 
 ## Features
 
